@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/num/4e_tv.png" group-title="",4E (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/tYqqKR5/4E.png" group-title="",4E (FHD)
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/action-24-gr.png" group-title="",ACTION 24 (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/NFM2rC9/ACTION-24.png" group-title="",ACTION 24 (FHD)
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aeolos.png" group-title="",AEOLOS (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/dBRnXPr/AEOLOS.png" group-title="",AEOLOS (FHD)
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.acheloostv.gr/news/wp-content/uploads/2022/02/axeloosmedtv-1.png" group-title="",ACHELOOS (SD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/jZjc6y6/ACHELOOS.png" group-title="",ACHELOOS (SD)
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.alerttv.com.gr/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNzQsInB1ciI6ImJsb2JfaWQifX0=--ce297e375c33df832baaadebac0a26fcf7e1c922/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTY1LDQ5XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--4ce5c0ebce2f031508931acc9f7f3f0ac0aa619b/LogoAlert%20(1).png" group-title="",ALERT (SD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/mTT22Rf/ALERT.png" group-title="",ALERT (SD)
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alpha-gr.png" group-title="",ALPHA TV (HD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/0rs2Qd9/ALPHA.png" group-title="",ALPHA (HD)
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ant1-gr.png" group-title="",ANT1 (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/9vgJkCL/ANT1.png" group-title="",ANT1 (FHD)
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art-tv.png" group-title="",ART (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/pj32RXZ/ART.png" group-title="",ART (FHD)
 https://rumble.com/live-hls/5h0kod/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/attica-tv-gr.png" group-title="",ATTICA (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/VJ4xL5X/ATTICA.png" group-title="",ATTICA (FHD)
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/best-tv-gr.png" group-title="",BEST (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/QK1YFCJ/BEST.png" group-title="",BEST (FHD)
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-sky-gr.png" group-title="",BLUESKY (HD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/2yCqzZt/BLUE-SKY.png" group-title="",BLUE SKY (HD)
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.egnatia.tv/sites/default/files/logo_h40_2.png" group-title="",EGNATIA TV (SD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/NFSKGmg/EGNATIA.png" group-title="",EGNATIA (SD)
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-1-gr.png" group-title="",ERT 1 (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/wsN5HP5/ERT-1.png" group-title="",ERT 1 (FHD)
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-2-gr.png" group-title="",ERT 2 (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/nzYP1Xm/ERT-2.png" group-title="",ERT 2 (FHD)
 https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-3-gr.png" group-title="",ERT 3 (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/pWBNPhc/ERT-3.png" group-title="",ERT 3 (FHD)
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-news-gr.png" group-title="",ERT NEWS (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/JvgM95D/ERT-NEWS.png" group-title="",ERT NEWS (FHD)
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ert-world-gr.png" group-title="",ERT WORLD (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/LdysDWq/ERT-WORLD.png" group-title="",ERT WORLD (FHD)
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports1-logo-800x300.png" group-title="",ERT SPORTS 1 (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/ZSMGjt5/ERT-SPORTS-1.png" group-title="",ERT SPORTS 1 (FHD)
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-kids-800x300.png" group-title="",ERT KIDS (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/2N0Mfdt/ERT-KIDS.png" group-title="",ERT KIDS (FHD)
 https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-music-800x300.png" group-title="",ERT MUSIC (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/n6mq6Wg/ERT-MUSIC.png" group-title="",ERT MUSIC (FHD)
 https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ena_channel_gr.png" group-title="",ENA CHANNEL (FHD)
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/mHQ2TN6/ENA-CHANNEL.png" group-title="",ENA CHANNEL (FHD)
 https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://epiloges.tv/wp-content/uploads/2022/01/logo-epiloges200.png" group-title="",EPILOGES TV (SD)
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
