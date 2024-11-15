@@ -75,8 +75,6 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" group-title="",PELLA TV (SD)
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg" group-title="",SAT (SD)
-https://live.cast-control.eu/samiaki/samiaki/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/skai-gr.png" group-title="",SKAI (HD)
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smile_tv_gr.png" group-title="",SMILE TV (SD)
@@ -87,8 +85,6 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://www.startmediacorfu.gr/wp-content/uploads/2023/09/Start-loko-270.jpg" group-title="",START (SD)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="https://syrostv1.gr/wp-content/uploads/2021/12/site_logo-1.png" group-title="",SYROS TV 1 (SD)
-https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png" group-title="",TELE KRITI (HD)
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://thrakinet.tv/wp-content/uploads/2021/01/THRAKINET-300x77.png" group-title="",THRAKI NET (FHD)
