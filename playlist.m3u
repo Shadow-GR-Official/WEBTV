@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/num/4e_tv.png" group-title="",4E (FHD)
-https://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/action-24-gr.png" group-title="",ACTION 24 (FHD)
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aeolos.png" group-title="",AEOLOS (FHD)
