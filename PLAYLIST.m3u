@@ -1,113 +1,113 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml" © 2024 GitHub Shadow GR Official https://github.com/Shadow-GR-Official
-#EXTINF:0 tvg-logo="https://i.ibb.co/tYqqKR5/4E.png",4E
+#EXTINF:0 tvg-id=4e"" tvg-logo="https://i.ibb.co/tYqqKR5/4E.png",4E
 https://tinyurl.com/33as9u5u
-#EXTINF:0 tvg-logo="https://i.ibb.co/NFM2rC9/ACTION-24.png",ACTION 24
+#EXTINF:0 tvg-id="action24" tvg-logo="https://i.ibb.co/NFM2rC9/ACTION-24.png",ACTION 24
 https://tinyurl.com/bddnr4s4
-#EXTINF:0 tvg-logo="https://i.ibb.co/mGfdN0Z/AEOLOS.png",AEOLOS
+#EXTINF:0 tvg-id="aeolos" tvg-logo="https://i.ibb.co/mGfdN0Z/AEOLOS.png",AEOLOS
 https://tinyurl.com/yxbf628x
-#EXTINF:0 tvg-logo="https://i.ibb.co/jZjc6y6/ACHELOOS.png",ACHELOOS
+#EXTINF:0 tvg-id="axelwostv" tvg-logo="https://i.ibb.co/jZjc6y6/ACHELOOS.png",ACHELOOS
 https://tinyurl.com/3d7jvrsc
-#EXTINF:0 tvg-logo="https://i.ibb.co/mTT22Rf/ALERT.png",ALERT
+#EXTINF:0 tvg-id="alert" tvg-logo="https://i.ibb.co/mTT22Rf/ALERT.png",ALERT
 https://tinyurl.com/3wk2dayh
-#EXTINF:0 tvg-logo="https://i.ibb.co/zXK0MG7/ALFA.png",ALFA
+#EXTINF:0 tvg-id="alfa" tvg-logo="https://i.ibb.co/zXK0MG7/ALFA.png",ALFA
 https://tinyurl.com/4v6kdmbd
-#EXTINF:0 tvg-logo="https://i.ibb.co/0rs2Qd9/ALPHA.png",ALPHA
+#EXTINF:0 tvg-id="alpha" tvg-logo="https://i.ibb.co/0rs2Qd9/ALPHA.png",ALPHA
 https://tinyurl.com/yc6f54n7
-#EXTINF:0 tvg-logo="https://i.ibb.co/9vgJkCL/ANT1.png",ANT1
+#EXTINF:0 tvg-id="ant1" tvg-logo="https://i.ibb.co/9vgJkCL/ANT1.png",ANT1
 https://tinyurl.com/mwhm5fdr
-#EXTINF:0 tvg-logo="https://i.ibb.co/pj32RXZ/ART.png",ART
+#EXTINF:0 tvg-id="art" tvg-logo="https://i.ibb.co/pj32RXZ/ART.png",ART
 https://tinyurl.com/mwjcb4d4
-#EXTINF:0 tvg-logo="https://i.ibb.co/VJ4xL5X/ATTICA.png",ATTICA
+#EXTINF:0 tvg-id="atticatv" tvg-logo="https://i.ibb.co/VJ4xL5X/ATTICA.png",ATTICA
 https://tinyurl.com/4cwt2wsd
-#EXTINF:0 tvg-logo="https://i.ibb.co/QK1YFCJ/BEST.png",BEST
+#EXTINF:0 tvg-id="besttv" tvg-logo="https://i.ibb.co/QK1YFCJ/BEST.png",BEST
 https://tinyurl.com/4ztzd67d
-#EXTINF:0 tvg-logo="https://i.ibb.co/2yCqzZt/BLUE-SKY.png",BLUE SKY
+#EXTINF:0 tvg-id="bluesky" tvg-logo="https://i.ibb.co/2yCqzZt/BLUE-SKY.png",BLUE SKY
 https://tinyurl.com/46xy6xkf
-#EXTINF:0 tvg-logo="https://i.ibb.co/DMtTXZJ/CRETA.png",CRETA
+#EXTINF:0 tvg-id="creta" tvg-logo="https://i.ibb.co/DMtTXZJ/CRETA.png",CRETA
 https://tinyurl.com/3wd9hjex
-#EXTINF:0 tvg-logo="https://i.ibb.co/pdTsRjS/EGNATIA.png",EGNATIA
+#EXTINF:0 tvg-id="egnatia" tvg-logo="https://i.ibb.co/pdTsRjS/EGNATIA.png",EGNATIA
 https://tinyurl.com/y3aehdv4
-#EXTINF:0 tvg-logo="https://i.ibb.co/wsN5HP5/ERT-1.png",ERT 1
+#EXTINF:0 tvg-id="ert1" tvg-logo="https://i.ibb.co/wsN5HP5/ERT-1.png",ERT 1
 https://tinyurl.com/yeydumps
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzYP1Xm/ERT-2.png",ERT 2
+#EXTINF:0 tvg-id="ert2" tvg-logo="https://i.ibb.co/nzYP1Xm/ERT-2.png",ERT 2
 https://tinyurl.com/bdzy67w7
-#EXTINF:0 tvg-logo="https://i.ibb.co/pWBNPhc/ERT-3.png",ERT 3
+#EXTINF:0 tvg-id="ert3" tvg-logo="https://i.ibb.co/pWBNPhc/ERT-3.png",ERT 3
 https://tinyurl.com/3dh96ycm
-#EXTINF:0 tvg-logo="https://i.ibb.co/JvgM95D/ERT-NEWS.png",ERT NEWS
+#EXTINF:0 tvg-id="ertnews" tvg-logo="https://i.ibb.co/JvgM95D/ERT-NEWS.png",ERT NEWS
 https://tinyurl.com/4mrh5sxr
-#EXTINF:0 tvg-logo="https://i.ibb.co/3k3sJJy/ERT-KIDS.png",ERT KIDS
+#EXTINF:0 tvg-id="ertkids" tvg-logo="https://i.ibb.co/3k3sJJy/ERT-KIDS.png",ERT KIDS
 https://tinyurl.com/nnjha58f
-#EXTINF:0 tvg-logo="https://i.ibb.co/fnJtnK8/ERT-MUSIC.png",ERT MUSIC
+#EXTINF:0 tvg-id="ertmusic" tvg-logo="https://i.ibb.co/fnJtnK8/ERT-MUSIC.png",ERT MUSIC
 https://tinyurl.com/39t68tuh
-#EXTINF:0 tvg-logo="https://i.ibb.co/q59BkFZ/ERT-SPORTS-1.png",ERT SPORTS 1
+#EXTINF:0 tvg-id="ertsports" tvg-logo="https://i.ibb.co/q59BkFZ/ERT-SPORTS-1.png",ERT SPORTS 1
 https://tinyurl.com/44hewzz7
-#EXTINF:0 tvg-logo="https://i.ibb.co/LdysDWq/ERT-WORLD.png",ERT WORLD
+#EXTINF:0 tvg-id="ertworld" tvg-logo="https://i.ibb.co/LdysDWq/ERT-WORLD.png",ERT WORLD
 https://tinyurl.com/mryt9y7v
-#EXTINF:0 tvg-logo="https://i.ibb.co/fnJtnK8/ERT-MUSIC.png",ERT MUSIC
+#EXTINF:0 tvg-id="ertmusic" tvg-logo="https://i.ibb.co/fnJtnK8/ERT-MUSIC.png",ERT MUSIC
 https://tinyurl.com/39t68tuh
-#EXTINF:0 tvg-logo="https://i.ibb.co/mHQ2TN6/ENA-CHANNEL.png",ENA CHANNEL
+#EXTINF:0 tvg-id="enachannel" tvg-logo="https://i.ibb.co/mHQ2TN6/ENA-CHANNEL.png",ENA CHANNEL
 https://tinyurl.com/2k5bbwtf
-#EXTINF:0 tvg-logo="https://i.ibb.co/nskg9Hv/EPILOGES.png",EPILOGES
+#EXTINF:0 tvg-id="tileepiloges" tvg-logo="https://i.ibb.co/nskg9Hv/EPILOGES.png",EPILOGES
 https://tinyurl.com/mryz89bk
-#EXTINF:0 tvg-logo="https://i.ibb.co/xLfvDqP/EPIRUS-TV-1.png",EPIRUS TV 1
+#EXTINF:0 tvg-id="epirustv1" tvg-logo="https://i.ibb.co/xLfvDqP/EPIRUS-TV-1.png",EPIRUS TV 1
 https://tinyurl.com/ykk9cnrt
-#EXTINF:0 tvg-logo="https://i.ibb.co/hg5pnxd/EPSILON.png",EPSILON
+#EXTINF:0 tvg-id="epsilonthess" tvg-logo="https://i.ibb.co/hg5pnxd/EPSILON.png",EPSILON
 https://tinyurl.com/2us36an6
-#EXTINF:0 tvg-logo="https://i.ibb.co/Qr182kk/FAROS.png",FAROS
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Qr182kk/FAROS.png",FAROS
 https://tinyurl.com/f4b4rc3u
-#EXTINF:0 tvg-logo="https://i.ibb.co/yn5wBYN/GNOMI.png",GNOMI
+#EXTINF:0 tvg-id="gnomitv" tvg-logo="https://i.ibb.co/yn5wBYN/GNOMI.png",GNOMI
 https://tinyurl.com/3wrybjhd
-#EXTINF:0 tvg-logo="https://i.ibb.co/zG4vF85/HIGH.png",HIGH
+#EXTINF:0 tvg-id="hightv" tvg-logo="https://i.ibb.co/zG4vF85/HIGH.png",HIGH
 https://tinyurl.com/5y6njb2x
-#EXTINF:0 tvg-logo="https://i.ibb.co/PMpBp5f/IONIAN.png",IONIAN
+#EXTINF:0 tvg-id="ionian" tvg-logo="https://i.ibb.co/PMpBp5f/IONIAN.png",IONIAN
 https://tinyurl.com/3mwfpmmm
-#EXTINF:0 tvg-logo="https://i.ibb.co/bKn21WK/IRIDA.png",IRIDA
+#EXTINF:0 tvg-id="iridatv" tvg-logo="https://i.ibb.co/bKn21WK/IRIDA.png",IRIDA
 https://tinyurl.com/56xtjem7
-#EXTINF:0 tvg-logo="https://i.ibb.co/cL5hVdr/KONTRA.png",KONTRA
+#EXTINF:0 tvg-id="kontra" tvg-logo="https://i.ibb.co/cL5hVdr/KONTRA.png",KONTRA
 https://tinyurl.com/3duamt57
-#EXTINF:0 tvg-logo="https://i.ibb.co/gF8DWFj/KRHTH.png",KRHTH
+#EXTINF:0 tvg-id="krhthtv" tvg-logo="https://i.ibb.co/gF8DWFj/KRHTH.png",KRHTH
 https://tinyurl.com/yc7e6kf7
-#EXTINF:0 tvg-logo="https://i.ibb.co/195N2By/MAKEDONIA.png",MAKEDONIA
+#EXTINF:0 tvg-id="mtv" tvg-logo="https://i.ibb.co/195N2By/MAKEDONIA.png",MAKEDONIA
 https://tinyurl.com/3xvx4avv
-#EXTINF:0 tvg-logo="https://i.ibb.co/9Hq29WB/MESOGEIOS.png",MESOGEIOS
+#EXTINF:0 tvg-id="mesogeiostv" tvg-logo="https://i.ibb.co/9Hq29WB/MESOGEIOS.png",MESOGEIOS
 https://tinyurl.com/s5kx4x88
-#EXTINF:0 tvg-logo="https://i.ibb.co/JqQN0S7/NAFTEMPORIKI.png",NAFTEMPORIKI
+#EXTINF:0 tvg-id="Naftemporikitv" tvg-logo="https://i.ibb.co/JqQN0S7/NAFTEMPORIKI.png",NAFTEMPORIKI
 https://tinyurl.com/37j5bakf
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0k34c2/NEA-THLEORASH-KRHTHS.png",NEA THLEORASH KRHTHS
+#EXTINF:0 tvg-id="neatvcrete" tvg-logo="https://i.ibb.co/n0k34c2/NEA-THLEORASH-KRHTHS.png",NEA THLEORASH KRHTHS
 https://tinyurl.com/5e2wst98
-#EXTINF:0 tvg-logo="https://i.ibb.co/YPL2csh/ONE-CHANNEL.png",ONE CHANNEL
+#EXTINF:0 tvg-id="onetv" tvg-logo="https://i.ibb.co/YPL2csh/ONE-CHANNEL.png",ONE CHANNEL
 https://tinyurl.com/4bd88sdn
-#EXTINF:0 tvg-logo="https://i.ibb.co/2sFMZfF/OPEN-BEYOND.png",OPEN BEYOND
+#EXTINF:0 tvg-id="open" tvg-logo="https://i.ibb.co/2sFMZfF/OPEN-BEYOND.png",OPEN BEYOND
 https://tinyurl.com/5aakxt7d
-#EXTINF:0 tvg-logo="https://i.ibb.co/Sygs894/PANIK.png",PANIK
+#EXTINF:0 tvg-id="PanikTV" tvg-logo="https://i.ibb.co/Sygs894/PANIK.png",PANIK
 https://tinyurl.com/mvh2ypsj
-#EXTINF:0 tvg-logo="https://i.ibb.co/qJnq6zk/PELLA.png",PELLA
+#EXTINF:0 tvg-id="pellatv" tvg-logo="https://i.ibb.co/qJnq6zk/PELLA.png",PELLA
 https://tinyurl.com/2k74scr7
-#EXTINF:0 tvg-logo="https://i.ibb.co/d0dFvJH/PLP.png",PLP
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/d0dFvJH/PLP.png",PLP
 https://tinyurl.com/5n93r7b7
-#EXTINF:0 tvg-logo="https://i.ibb.co/mGH4gfH/SKAI.png",SKAI
+#EXTINF:0 tvg-id="skai" tvg-logo="https://i.ibb.co/mGH4gfH/SKAI.png",SKAI
 https://tinyurl.com/y7xmfred
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZXgNTCq/SMILE.png",SMILE
+#EXTINF:0 tvg-id="smileplus" tvg-logo="https://i.ibb.co/ZXgNTCq/SMILE.png",SMILE
 https://tinyurl.com/tfkyxvef
-#EXTINF:0 tvg-logo="https://i.ibb.co/bmG4Bmz/STAR.png",STAR
+#EXTINF:0 tvg-id="star" tvg-logo="https://i.ibb.co/bmG4Bmz/STAR.png",STAR
 https://tinyurl.com/2yrxd8zd
-#EXTINF:0 tvg-logo="https://i.ibb.co/bmG4Bmz/STAR.png",STAR INTERNATIONAL
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/bmG4Bmz/STAR.png",STAR INTERNATIONAL
 https://tinyurl.com/dd5fp323
-#EXTINF:0 tvg-logo="https://i.ibb.co/Hx61JWJ/START.png",START
+#EXTINF:0 tvg-id="starttv" tvg-logo="https://i.ibb.co/Hx61JWJ/START.png",START
 https://tinyurl.com/2vbst2f2
-#EXTINF:0 tvg-logo="https://i.ibb.co/nfMhdB9/TELE-KRHTH.png",TELE KRHTH
+#EXTINF:0 tvg-id="thlekriti" tvg-logo="https://i.ibb.co/nfMhdB9/TELE-KRHTH.png",TELE KRHTH
 https://tinyurl.com/cxs73px7
-#EXTINF:0 tvg-logo="https://i.ibb.co/m4qtwYB/THRAKH-NET.png",THRAKH NET
+#EXTINF:0 tvg-id="thrakinet" tvg-logo="https://i.ibb.co/m4qtwYB/THRAKH-NET.png",THRAKH NET
 https://tinyurl.com/4z87kzez
-#EXTINF:0 tvg-logo="https://i.ibb.co/BnLj48G/TRT.png",TRT
+#EXTINF:0 tvg-id="trt" tvg-logo="https://i.ibb.co/BnLj48G/TRT.png",TRT
 https://tinyurl.com/4fdxvz6j
-#EXTINF:0 tvg-logo="https://i.ibb.co/CKcjdwG/TV-100.png",TV 100
+#EXTINF:0 tvg-id="tv100" tvg-logo="https://i.ibb.co/CKcjdwG/TV-100.png",TV 100
 https://tinyurl.com/48keut9a
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g86BZ1/VERGINA.png",VERGINA
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/4g86BZ1/VERGINA.png",VERGINA
 https://tinyurl.com/sb6zpy3v
-#EXTINF:0 tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH
+#EXTINF:0 tvg-id="vouli" tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH
 https://tinyurl.com/5ak5xmhn
-#EXTINF:0 tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH (BUP 1)
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH (BUP 1)
 https://tinyurl.com/4r87uusj
-#EXTINF:0 tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH (BUP 2)
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/GRTf9nh/VOULH.png",VOULH (BUP 2)
 https://tinyurl.com/4wa6wpnh
